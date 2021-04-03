@@ -7,7 +7,8 @@ Specifications:
         Diagonal: 4.7 “
         Resolution: 540 x 960 pixels
         Display driver: not specified, probably ED097OC4
-        Touch driver: type unknown, seems to be present on the board under Touch. Uses pins 13, 14, 15.   Connector designed to make the T5 tactile later in order to offer an economical product at launch.
+        Touch driver: type unknown, seems to be present on the board under Touch. Uses pins 13, 14, 15.   
+        Connector designed to make the T5 tactile later in order to offer an economical product at launch.
     Connectivity
         Wi-Fi with 3D antenna (ESP32)
         Dual mode Bluetooth (ESP32)

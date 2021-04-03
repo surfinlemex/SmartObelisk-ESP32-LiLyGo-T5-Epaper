@@ -1,5 +1,6 @@
 # SmartObelisk-ESP32-LiLyGo-T5-Epaper
 Specifications:
+
     ESP32-D0WDQ6-V3 @ 240 MHz dual core, 600 DMIPS, 520 KB SRAM
     Screen
         Technology: ePaper / eInk 16 gray levels (8 bits)
